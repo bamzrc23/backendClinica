@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://bamz:bamz@atlascluster.yt7xu4p.mongodb.net/MyAppClinica', {
+mongoose.connect('mongodb+srv://bamz:<contraseña>@atlascluster.yt7xu4p.mongodb.net/MyAppClinica', {
 
 });
 
